@@ -152,16 +152,16 @@ Looking ahead, the significant investment in these finalists (including the $5 m
 
 For more information on each finalist, please refer to the individual company reports:
 
-1. [ProjectDiscovery Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/ProjectDiscovery_Report.md) (Winner)
-2. [CalypsoAI Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/CalypsoAI_Report.md) (Runner-up)
-3. [Aurascape Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/Aurascape_Report.md)
-4. [Command Zero Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Command_Zero_Report.md)
-5. [EQTY Lab Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/EQTY_Lab_Report.md)
-6. [Knostic Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/Knostic_Report.md)
-7. [Metalware Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/Metalware_Report.md)
-8. [MIND Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/MIND_Report.md)
-9. [Smallstep Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/Smallstep_Report.md)
-10. [Twine Security Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/Company_Reports/Twine_Security_Report.md)
+1. [ProjectDiscovery Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/ProjectDiscovery_Report.md) (Winner)
+2. [CalypsoAI Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/CalypsoAI_Report.md) (Runner-up)
+3. [Aurascape Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Aurascape_Report.md)
+4. [Command Zero Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Command_Zero_Report.md)
+5. [EQTY Lab Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/EQTY_Lab_Report.md)
+6. [Knostic Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Knostic_Report.md)
+7. [Metalware Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Metalware_Report.md)
+8. [MIND Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/MIND_Report.md)
+9. [Smallstep Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Smallstep_Report.md)
+10. [Twine Security Report](https://github.com/gmdeckard/2025_RSAC_ISB_Report/blob/main/Company_Reports/Twine_Security_Report.md)
 
 ## References
 
